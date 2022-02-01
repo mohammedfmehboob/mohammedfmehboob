@@ -3,7 +3,7 @@
 ## Quick Information
 Hello! I am a undergraduate student at the University of Texas at Austin majoring in Psychology with a minor in Computer Science. 
 
-### Biograhphy
+### Biography
 I am from Texas and I believe that psychology and computer science can come together to lead to important discoveries. These discoveries can hopefully one day make the world a better place. This is indeed a daunting task, but hardwork will make this a reality. 
 
 <!--
