@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore data science in the behaviour field.\
 🎓 &nbsp;I'm currently studying Psychology with a minor in Computer Science at the University of Texas at Austin.\
-🌱 &nbsp;I'm on track for learning Programming Languages, Machine Learning, Data Science, and Psychology (Personality, Cog., Lang. Development).\
+🌱 &nbsp;I'm on track for learning Psychology (Personality, Cognition, Language Dev.), Data Science, and Machine Learning.\
 ✍️ &nbsp;In my free time, I like to go on runs and read books.\
 💬 &nbsp;Feel free to reach out for discussions about Psychology and its future with Computer Science!\
 ✉️ &nbsp;You can shoot me an email at mfm2467@utexas.edu! I'll try to respond as fast as I can!\
