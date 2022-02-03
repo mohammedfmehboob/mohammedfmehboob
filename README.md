@@ -1,48 +1,32 @@
----
-title: AVS1508
-date: 2020-23-08
-spoiler: Short and Sweet Readme Template
-categories: ["short-and-sweet", "all-profile"]
-githubUsername: "AVS1508"
----
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-## 👋 &nbsp;Hey there! I'm Aditya
+![Mohammed Furqan Mehboob]
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👋 &nbsp;Hello! I'm Mohammed!
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+### 👨🏻‍💻 &nbsp;About Me"
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+💡 &nbsp;I like to explore data science in the behaviour field.
+🎓 &nbsp;I'm currently studying Psychology with a minor in Computer Science at the University of Texas at Austin.\
+🌱 &nbsp;I'm on track for learning more Programming Languages, Machine Learning, Data Science, and Psychology (Personality, Cognition, Language Development).\
+✍️ &nbsp;In my free time, I like to go on runs and read books.\
+💬 &nbsp;Feel free to reach out for discussions about Psychology and its future with Computer Science!\
+✉️ &nbsp;You can shoot me an email at mfm2467@utexas.edu! I'll try to respond as fast as I can!\
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1QNA7RnjDR1QDqgBDEkK0GbArE-9sULZ-LYDuVbPlLcA/edit?usp=sharing) for more information about me. I'd be grateful for some feedback and suggestions!
+
+<img alt="Brain and Coding" src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
