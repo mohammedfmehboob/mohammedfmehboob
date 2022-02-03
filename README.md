@@ -30,7 +30,7 @@
 
 <p align="center">
 <a href="https://github.com/mohammedfmehboob">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=tru" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammedfmehboob&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=tru" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammedfmehboob&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
