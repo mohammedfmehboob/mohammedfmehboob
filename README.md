@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore data science in the behaviour field.\
 🎓 &nbsp;I'm currently studying Psychology with a minor in Computer Science at the University of Texas at Austin.\
-🌱 &nbsp;I'm on track for learning more Programming Languages, Machine Learning, Data Science, and Psychology (Personality, Cognition, Language Development).\
+🌱 &nbsp;I'm on track for learning Programming Languages, Machine Learning, Data Science, and Psychology (Personality, Cog., Lang. Development).\
 ✍️ &nbsp;In my free time, I like to go on runs and read books.\
 💬 &nbsp;Feel free to reach out for discussions about Psychology and its future with Computer Science!\
 ✉️ &nbsp;You can shoot me an email at mfm2467@utexas.edu! I'll try to respond as fast as I can!\
@@ -30,9 +30,9 @@
 
 <p align="center">
 <a href="https://github.com/mohammedfmehboob">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammedfmehboob&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=tru" 
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammedfmehboob&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=tru" 
 />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammedfmehboob&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammedfmehboob&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
