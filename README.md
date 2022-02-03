@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at mfm2467@utexas.edu! I'll try to respond as fast as I can!\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1XXA5dpHANwqsLZ2vBU-_3JpKW5c92-sY/view?usp=sharing) for more information about me. I'd be grateful for some feedback and suggestions!
 
-<img alt="Brain and Coding" src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" align="right" width ="300" height="250"/>
+<img alt="Brain and Coding" src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" align="right" width ="300" height="200"/>
 
 ### 🛠 &nbsp;Tech Stack
 
