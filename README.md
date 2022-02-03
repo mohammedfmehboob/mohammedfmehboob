@@ -43,5 +43,3 @@
 <a href="mfm2467@utexas.edu"><img src="https://img.shields.io/badge/-mfm2467@utexas.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mohammed.furqan.56614/"><img src="https://img.shields.io/badge/-@Mohammed Furqan Mehboob-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
-
-⭐️ From [Mohammed Furqan Mehboob](https://github.com/mohammedfmehboob)
