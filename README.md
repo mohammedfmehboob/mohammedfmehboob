@@ -1,8 +1,6 @@
 
 
-[Mohammed Furqan Mehboob]
-
-## 👋 &nbsp; Hello! I'm Mohammed!
+## 👋 &nbsp;Hello! I'm Mohammed Furqan Mehboob!
 
 ### 👨🏻‍💻 &nbsp;About Me:
 
@@ -12,9 +10,9 @@
 ✍️ &nbsp;In my free time, I like to go on runs and read books.\
 💬 &nbsp;Feel free to reach out for discussions about Psychology and its future with Computer Science!\
 ✉️ &nbsp;You can shoot me an email at mfm2467@utexas.edu! I'll try to respond as fast as I can!\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1XXA5dpHANwqsLZ2vBU-_3JpKW5c92-sY/view?usp=sharing)for more information about me. I'd be grateful for some feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1XXA5dpHANwqsLZ2vBU-_3JpKW5c92-sY/view?usp=sharing) for more information about me. I'd be grateful for some feedback and suggestions!
 
-<img alt="Brain and Coding" src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" align="right"/>
+<img alt="Brain and Coding" src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" align="right" width ="250" height="250"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,17 +30,17 @@
 
 <p align="center">
 <a href="https://github.com/mohammedfmehboob">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammedfmehboob8&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammedfmehboob&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammed-mehboob-18087420b/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mfm2467@utexas.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/mohammed.furqan.56614/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-mehboob-18087420b/"><img src="https://img.shields.io/badge/-MohammedFMehboob-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mfm2467@utexas.edu"><img src="https://img.shields.io/badge/-mfm2467@utexas.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/mohammed.furqan.56614/"><img src="https://img.shields.io/badge/-@Mohammed Furqan Mehboob-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/mohammedfmehboob)
+⭐️ From [Mohammed Furqan Mehboob](https://github.com/mohammedfmehboob)
