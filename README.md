@@ -10,7 +10,7 @@
 📚 &nbsp;In my free time, I like to go on runs and read books.\
 💬 &nbsp;Feel free to reach out for discussions about Psychology and its future with Computer Science!\
 ✉️ &nbsp;You can shoot me an email at mfm2467@utexas.edu! I'll try to respond as fast as I can!\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/13HY74xNcwkN5t0p-pAJRmM5aMlpmjZhC/view?usp=sharing) for more information about me. I'd be grateful for some feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1_4r4CVNaVsqew1KTXDz4Sytde-ChypQZ/view?usp=sharing) for more information about me. I'd be grateful for some feedback and suggestions!
 
 <img alt="Brain and Coding" src="https://cdn.dribbble.com/users/517658/screenshots/1480070/brains_animation.1.gif" align="right" width ="300" height="150"/>
 
